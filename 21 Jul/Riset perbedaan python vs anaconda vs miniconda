@@ -1,1 +1,44 @@
+# 📌 Panduan Orientasi: Mengenal Perbedaan Python Murni, Anaconda, dan Miniconda
 
+---
+
+## 📝 Deskripsi Singkat
+Saat ingin mulai belajar *Data Analytics*, langkah awal yang sering membuat bingung adalah memilih ekosistem Python yang tepat untuk di-install. Panduan ini membahas tuntas perbedaan antara **Python Murni**, **Anaconda**, dan **Miniconda** menggunakan analogi sederhana yang mudah dipahami pemula, dilengkapi contoh cara kerja serta panduan memilih *environment* yang paling pas dengan spesifikasi laptopmu.
+
+---
+
+## 🏠 Analogi Sederhana
+
+* 🏠 **Python Murni (Vanilla Python)**
+  Ibarat membeli **rumah kosong**. Sangat ringan, tetapi kamu harus membeli kasur, kursi, dan lemari (*library*) sendiri satu per satu secara manual.
+
+* 🛋️ **Anaconda**
+  Ibarat membeli **rumah *full-furnished***. Semua fasilitas data science sudah lengkap di dalam, tinggal masuk dan langsung pakai tanpa perlu beli apa-apa lagi.
+
+* 📦 **Miniconda**
+  Ibarat membeli **rumah dengan fasilitas esensial**. Hanya ada kasur dan kompor (*tools* dasar `conda`), sisanya kamu beli dan tambahkan mencicil sesuai kebutuhan.
+
+---
+
+## 📊 Ringkasan Perbandingan Fitur
+
+### 1. Python Murni
+* **Ukuran File:** Sangat Kecil (~30–50 MB)
+* **Tampilan Grafis (GUI):** Tidak ada
+* **Package Manager:** Hanya `pip`
+* **Library Data Science Bawaan:** Belum ada (harus install manual)
+* **Beban RAM Laptop:** Sangat Ringan
+
+### 2. Anaconda
+* **Ukuran File:** Sangat Besar (>1 GB)
+* **Tampilan Grafis (GUI):** Ada (**Anaconda Navigator**)
+* **Package Manager:** `conda` dan `pip`
+* **Library Data Science Bawaan:** **Sudah Lengkap** (Pandas, NumPy, Matplotlib, Jupyter, dll.)
+* **Beban RAM Laptop:** Cukup Berat
+
+### 3. Miniconda
+* **Ukuran File:** Kecil (~60–100 MB)
+* **Tampilan Grafis (GUI):** Tidak ada
+* **Package Manager:** `conda` dan `pip`
+* **Library Data Science Bawaan:** Belum ada (di-install seperlunya)
+* **Beban RAM Laptop:** Ringan
