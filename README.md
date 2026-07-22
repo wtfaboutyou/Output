@@ -1,6 +1,6 @@
 # 🚀 Internship Documentation & Work Journal
 
-Welcome to the repository documenting my professional experience, projects, daily logs, and learning outcomes during my **Industrial Work Practice (PKL / Internship)** at **[Company/Organization Name]**.
+Welcome to the repository documenting my professional experience, projects, daily logs, and learning outcomes during my **Industrial Work Practice (PKL / Internship)** at **[Edusoft Center]**.
 
 ---
 
