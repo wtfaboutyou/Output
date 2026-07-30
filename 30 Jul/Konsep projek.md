@@ -60,7 +60,7 @@
                         Portainer (Optional Management)
 
 # Arsitektur Fungsi
-
+```
 Guru
  |
  |-- Membuat kelas
@@ -112,3 +112,50 @@ Siswa
 -- Uptime Kuma
 -- Portainer
 -- Restic Backup
+
+
+```
+```
+flowchart LR
+
+subgraph Guru
+A1[Login]
+A2[Kelola Kelas]
+A3[Upload Materi]
+A4[Buat Quiz]
+A5[Lihat Nilai]
+A6[Analitik]
+end
+
+subgraph Siswa
+B1[Login]
+B2[Belajar]
+B3[Kerjakan Quiz]
+B4[AI Tutor]
+B5[Lihat Progress]
+B6[Download Sertifikat]
+end
+
+subgraph Backend
+C1[Authentication]
+C2[Authorization]
+C3[Quiz Engine]
+C4[Adaptive Learning]
+C5[AI Service]
+C6[Reporting]
+C7[Notification]
+end
+
+subgraph Database
+D1[(PostgreSQL)]
+D2[(Redis)]
+end
+
+Guru --> Backend
+Siswa --> Backend
+
+Backend --> Database
+Backend --> AI
+
+AI[Gemini API / Groq API]
+```
