@@ -62,13 +62,13 @@
 # Arsitektur Fungsi
 
 Guru
- │
- ├── Membuat kelas
- ├── Upload materi
- ├── Membuat soal
- ├── Melihat nilai
- ├── Analitik siswa
- │
+ |
+ |-- Membuat kelas
+ |-- Upload materi
+ |-- Membuat soal
+ |-- Melihat nilai
+ |-- Analitik siswa
+ |
  ▼
 Django Backend
  │
@@ -83,32 +83,32 @@ Django Backend
  ▼
 Database
 
-────────────────────────────
+-------------------------
 
 Siswa
 
- ├── Login
- ├── Belajar
- ├── Kerjakan Quiz
- └── Tanya AI
+ |-- Login
+ |-- Belajar
+ |-- Kerjakan Quiz
+ L--Tanya AI
 
  # Topologi Server Debian 13
 
  Debian 13
 
-├── Docker Engine
-├── Docker Compose
-├── Caddy
-├── Django
-├── Gunicorn
-├── PostgreSQL
-├── Redis
-├── Celery
-├── Flower
-├── Prometheus
-├── Grafana
-├── Loki
-├── Promtail
-├── Uptime Kuma
-├── Portainer
-└── Restic Backup
+|-- Docker Engine
+|-- Docker Compose
+|-- Caddy
+|-- Django
+|-- Gunicorn
+|-- PostgreSQL
+|-- Redis
+|-- Celery
+|-- Flower
+|-- Prometheus
+|-- Grafana
+|-- Loki
+|-- Promtail
+|-- Uptime Kuma
+|-- Portainer
+L-- Restic Backup
