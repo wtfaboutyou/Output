@@ -96,19 +96,19 @@ Siswa
 
  Debian 13
 
-|-- Docker Engine
-|-- Docker Compose
-|-- Caddy
-|-- Django
-|-- Gunicorn
-|-- PostgreSQL
-|-- Redis
-|-- Celery
-|-- Flower
-|-- Prometheus
-|-- Grafana
-|-- Loki
-|-- Promtail
-|-- Uptime Kuma
-|-- Portainer
-L-- Restic Backup
+-- Docker Engine
+-- Docker Compose
+-- Caddy
+-- Django
+-- Gunicorn
+-- PostgreSQL
+-- Redis
+-- Celery
+-- Flower
+-- Prometheus
+-- Grafana
+-- Loki
+-- Promtail
+-- Uptime Kuma
+-- Portainer
+-- Restic Backup
