@@ -75,11 +75,10 @@
 | Aspek | Detail |
 |-------|--------|
 | **Apa** | Platform keamanan dan performa web |
-| **Layanan** | DNS, CDN, Turnstile Captcha, R2 Storage |
+| **Layanan** | DNS, CDN, Turnstile Captcha |
 
 **Mengapa Cloudflare?**
 - **Gratis** — Paket free sudah mencakup CDN, DNS, proteksi DDoS, dan captcha.
-- **R2 Storage** — Penyimpanan file voice note yang efisien dan terpisah dari database utama.
 - **Turnstile Captcha** — Anti-bot tanpa mengganggu pengalaman pengguna (tidak perlu klik gambar).
 
 ---
@@ -166,9 +165,6 @@ Pengunjung anonim merekam voice note (maks. 60 detik)
         │
         ▼
 File audio diunggah ke server
-        │
-        ▼
-Server menyimpan file asli ke Cloudflare R2 (penyimpanan sementara)
         │
         ▼
 Tugas konversi masuk ke antrean BullMQ (dikelola Redis)
