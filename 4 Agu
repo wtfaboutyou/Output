@@ -1,0 +1,58 @@
+# Monitoring Server Menggunakan Grafana dan Prometheus
+
+## Pendahuluan
+
+Monitoring server merupakan salah satu aktivitas penting dalam administrasi sistem. Dengan monitoring, administrator dapat mengetahui kondisi server secara real-time, seperti penggunaan CPU, memori, penyimpanan, hingga lalu lintas jaringan. Informasi tersebut membantu mendeteksi potensi gangguan sebelum berdampak pada layanan.
+
+Salah satu solusi monitoring yang banyak digunakan adalah kombinasi **Prometheus** dan **Grafana**. Keduanya bersifat open source, ringan, dan banyak diterapkan pada lingkungan Linux, cloud, maupun DevOps.
+
+---
+
+## Apa itu Prometheus?
+
+Prometheus adalah aplikasi monitoring yang bertugas mengumpulkan metrik dari server secara berkala. Data yang dikumpulkan kemudian disimpan sehingga dapat digunakan untuk analisis maupun visualisasi.
+
+---
+
+## Apa itu Grafana?
+
+Grafana merupakan aplikasi visualisasi data yang digunakan untuk menampilkan metrik dari Prometheus dalam bentuk dashboard interaktif. Dengan tampilan grafik yang informatif, administrator dapat lebih mudah memahami kondisi server.
+
+---
+
+## Cara Kerja Singkat
+
+Secara umum, proses monitoring berjalan sebagai berikut:
+
+```text
+Server
+   │
+   ▼
+Node Exporter
+   │
+   ▼
+Prometheus
+   │
+   ▼
+Grafana
+```
+
+Node Exporter mengumpulkan informasi dari server, Prometheus mengambil data tersebut, kemudian Grafana menampilkan hasilnya dalam bentuk dashboard.
+
+---
+
+## Mengapa Menggunakan Grafana dan Prometheus?
+
+Beberapa alasan mengapa kombinasi ini banyak digunakan:
+
+- Open source dan gratis
+- Mudah dikonfigurasi
+- Mendukung monitoring secara real-time
+- Dashboard yang interaktif
+- Banyak digunakan di lingkungan industri
+
+---
+
+## Penutup
+
+Grafana dan Prometheus menjadi salah satu solusi monitoring server yang populer karena mampu memberikan informasi performa sistem secara cepat dan mudah dipahami. Pada artikel berikutnya akan dibahas proses instalasi, konfigurasi, serta implementasi monitoring server menggunakan Debian 13.
