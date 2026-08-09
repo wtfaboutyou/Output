@@ -44,4 +44,3 @@ During this internship, I had the opportunity to work with and learn various tec
 
 ---
 
-## 📂 Repository Structure
