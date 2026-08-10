@@ -24,14 +24,6 @@ Namun, memahami sejarah ini juga membutuhkan perhatian terhadap konteks yang leb
 
 ## Kesimpulan
 
-Menurut jawaban Iversa Philomena, kebencian Hitler terhadap kaum Yahudi berkaitan dengan antisemitisme yang sudah ada sebelumnya, ideologi Nazi, kondisi Jerman setelah Perang Dunia I, serta propaganda yang digunakan untuk membentuk pandangan masyarakat.
-
-Kebijakan terhadap kaum Yahudi kemudian berkembang dari diskriminasi menjadi penganiayaan dan pembunuhan massal. Peristiwa ini menjadi bagian penting dari sejarah Perang Dunia II dan dikenal sebagai Holocaust.
-
-Untuk memahami peristiwa tersebut secara lebih objektif, penting untuk melihatnya dalam konteks sejarah yang lebih luas dan membedakan antara fakta, propaganda, serta interpretasi politik yang muncul dari pihak-pihak yang terlibat. Dengan begitu, pembahasan tidak hanya berfokus pada satu sudut pandang, tetapi juga melihat proses dan keadaan yang menyebabkan peristiwa tersebut terjadi.
-
-## Kesimpulan
-
 Dari pembahasan tersebut, kebencian Adolf Hitler terhadap kaum Yahudi tidak bisa dijelaskan hanya sebagai kebencian pribadi. Ada beberapa faktor yang saling berkaitan, seperti antisemitisme yang sudah berkembang di Eropa sebelum Hitler, kondisi politik dan ekonomi Jerman setelah Perang Dunia I, ideologi rasial Nazi, serta propaganda politik yang digunakan untuk mendapatkan dan mempertahankan dukungan masyarakat.
 
 Dalam perkembangannya, pandangan tersebut kemudian diwujudkan melalui kebijakan yang semakin membatasi dan menganiaya masyarakat Yahudi. Penganiayaan tersebut akhirnya berkembang menjadi pembunuhan massal yang sekarang dikenal sebagai Holocaust.
