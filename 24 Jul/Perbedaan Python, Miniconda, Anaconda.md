@@ -48,4 +48,5 @@ Berikut adalah detail karakteristik dari masing-masing opsi:
 ---
 
 CEK DI SINI!!
+
 https://edusoftcenter.com/mengenal-perbedaan-python-murni-anaconda-dan-miniconda-mana-yang-cocok-untuk-pemula/
