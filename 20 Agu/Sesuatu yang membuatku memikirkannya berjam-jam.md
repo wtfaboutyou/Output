@@ -10,3 +10,7 @@ Mengetahui hal tersebut, pemilik barunya merasa sedih dan berusaha membuatnya me
 Menurut saya, anda akan mengira jawaban yang ditulis oleh KeiV akan berakhir horror atau seram, namun ternyata plot twistnya adalah kisah ini berakhir penuh kesedihan dan rasa haru.
 Majikan anjing yang dulu membuangnya ke tempat penampungan saat ia sedang tertidur di malam hari, membuatnya memiliki rasa trauma yang mendalam bersama pemilik barunya di malam hari, kekhawatiran juga ketakutan yang menghantui anjing tersebut membuatnya berjaga setiap malam.
 Bahkan hewan seperti anjing pun bisa mengalami rasa trauma yang diakibatkan oleh trauma masa lalunya.
+
+Sumber:
+
+https://id.quora.com/Bisakah-kamu-beritahu-sesuatu-yang-membuatku-memikirkannya-berjam-jam
