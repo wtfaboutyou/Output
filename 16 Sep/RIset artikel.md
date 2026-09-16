@@ -46,5 +46,5 @@ Hasilnya dapat digunakan untuk melihat peluang:
 ## Kategori
 Business Analytics / Business Intelligence
 
-## Dataset
+## Sumber Dataset
 https://archive.ics.uci.edu/dataset/352/online+retail
